@@ -1,0 +1,3 @@
+/Users/99/Code/cpp/CG/mylib/build/CMakeFiles/MyGLFWProject.dir
+/Users/99/Code/cpp/CG/mylib/build/CMakeFiles/edit_cache.dir
+/Users/99/Code/cpp/CG/mylib/build/CMakeFiles/rebuild_cache.dir
